@@ -80,11 +80,11 @@
 
         layer_VIM {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans     &trans                &trans                 &trans            &trans             &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &kp MINUS  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans   &kp LEFT              &kp DOWN                 &kp UP         &kp RIGHT             &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                     &trans                &trans                 &trans            &trans             &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                           &trans                 &trans            &trans             &trans  &trans
+ &trans  &trans  &trans      &trans  &trans  &trans            &trans                                                  &trans     &trans                &trans                 &trans            &trans             &trans  &trans
+ &trans  &trans  &trans      &trans  &trans  &trans            &trans                                                  &trans  &kp MINUS  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans
+ &trans  &trans  &trans  &kp DELETE  &trans  &trans            &trans  &trans  &trans                  &trans  &trans  &trans   &kp LEFT              &kp DOWN                 &kp UP         &kp RIGHT             &trans  &trans
+ &trans  &trans  &trans      &trans  &trans  &trans                            &trans                  &trans                     &trans                &trans                 &trans            &trans             &trans  &trans
+ &trans  &trans  &trans      &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                           &trans                 &trans            &trans             &trans  &trans
             >;
         };
 
